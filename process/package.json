@@ -1,0 +1,16 @@
+{
+  "name": "process-one",
+  "version": "1.0.0",
+  "description": "write to the database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "pg-promise": "^10.3.5"
+  }
+}
