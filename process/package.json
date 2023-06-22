@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "faker": "^4.1.0",
-    "pg-promise": "^10.3.5"
+    "pg-promise": "^10.15.4"
   }
 }
